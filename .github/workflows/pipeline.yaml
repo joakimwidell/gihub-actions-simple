@@ -9,5 +9,5 @@ jobs:
     - uses: actions/checkout@v2
     - uses: actions/setup-dotnet@v1
       with: 
-        dotnet-version 5.0.206
+        dotnet-version 5.0.x
     - run: dotnet build
