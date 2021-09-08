@@ -1,0 +1,16 @@
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\bin\Debug\net5.0\gihub-actions-simple.exe
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\bin\Debug\net5.0\gihub-actions-simple.deps.json
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\bin\Debug\net5.0\gihub-actions-simple.runtimeconfig.json
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\bin\Debug\net5.0\gihub-actions-simple.runtimeconfig.dev.json
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\bin\Debug\net5.0\gihub-actions-simple.dll
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\bin\Debug\net5.0\ref\gihub-actions-simple.dll
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\bin\Debug\net5.0\gihub-actions-simple.pdb
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\obj\Debug\net5.0\gihub-actions-simple.csprojAssemblyReference.cache
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\obj\Debug\net5.0\gihub-actions-simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\obj\Debug\net5.0\gihub-actions-simple.AssemblyInfoInputs.cache
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\obj\Debug\net5.0\gihub-actions-simple.AssemblyInfo.cs
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\obj\Debug\net5.0\gihub-actions-simple.csproj.CoreCompileInputs.cache
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\obj\Debug\net5.0\gihub-actions-simple.dll
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\obj\Debug\net5.0\ref\gihub-actions-simple.dll
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\obj\Debug\net5.0\gihub-actions-simple.pdb
+C:\Users\Joaki\Documents\GitHub\local-spacepark\gihub-actions-simple\obj\Debug\net5.0\gihub-actions-simple.genruntimeconfig.cache
