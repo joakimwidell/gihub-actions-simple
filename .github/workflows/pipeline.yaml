@@ -1,0 +1,6 @@
+name: First flow
+on: [push]
+jobs:
+  build:
+    name: Build job one
+    runs-on: windows-latest
